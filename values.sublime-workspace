@@ -519,6 +519,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 60,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -564,11 +573,13 @@
 	},
 	"expanded_folders":
 	[
-		"/R/kazuha.local/collei-projects/values",
-		"/R/kazuha.local/collei-projects/values/test"
+		"/D/_server/apache/sites/kazuha.local/collei-projects/values"
 	],
 	"file_history":
 	[
+		"/D/_server/apache/sites/kazuha.local/collei-projects/values/README.md",
+		"/D/_server/apache/sites/kazuha.local/collei-projects/values/LICENSE.md",
+		"/D/_server/apache/sites/kazuha.local/collei-projects/exceller/LICENSE.md",
 		"/R/kazuha.local/collei-projects/values/test/ArrayTest.php",
 		"/R/kazuha.local/collei-projects/values/test/DoubleTest.php",
 		"/R/kazuha.local/collei-projects/values/test/BooleanTest.php",
@@ -693,14 +704,11 @@
 		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/app/Http/Controllers/ImportsController.php",
 		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/resources/views/tools/imports/uploads.vis.php",
 		"/D/_server/apache/sites/kazuha.local/zelatus/admin/Http/Controllers/LogonController.php",
-		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/app/Services/FileImportService.php",
-		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/app/Models/Speechpart.php",
-		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/app/Etc/Verb.php",
-		"/C/Users/ujunio/Desktop/xlang_portuguese.json"
+		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/app/Services/FileImportService.php"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -745,14 +753,43 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 31.0
 	},
 	"input":
 	{

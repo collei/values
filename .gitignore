@@ -1,5 +1,5 @@
 /test/
 /vendor/
-.sublime-project
-.sublime-workspace
+values.sublime-project
+values.sublime-workspace
 test.*

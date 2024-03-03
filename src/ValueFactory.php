@@ -1,5 +1,5 @@
 <?php
-namespace Collei\Types;
+namespace Collei\Values;
 
 use DateTime;
 use DateTimeInterface;

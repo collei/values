@@ -1,7 +1,7 @@
 <?php
-namespace Collei\Types;
+namespace Collei\Values;
 
-use Collei\Types\Concerns\Numeric;
+use Collei\Values\Concerns\Numeric;
 
 /**
  * Type abstraction layer for loading from/saving to files

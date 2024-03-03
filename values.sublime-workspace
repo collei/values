@@ -527,6 +527,14 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "src/ValueFactory.php",
+			"settings":
+			{
+				"buffer_size": 1079,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -573,10 +581,13 @@
 	},
 	"expanded_folders":
 	[
-		"/D/_server/apache/sites/kazuha.local/collei-projects/values"
+		"/D/_server/apache/sites/kazuha.local/collei-projects/values",
+		"/D/_server/apache/sites/kazuha.local/collei-projects/values/src"
 	],
 	"file_history":
 	[
+		"/D/_server/apache/sites/kazuha.local/collei-projects/values/src/Value.php",
+		"/D/_server/apache/sites/kazuha.local/collei-projects/values/src/ValueFactory.php",
 		"/D/_server/apache/sites/kazuha.local/collei-projects/values/README.md",
 		"/D/_server/apache/sites/kazuha.local/collei-projects/values/LICENSE.md",
 		"/D/_server/apache/sites/kazuha.local/collei-projects/exceller/LICENSE.md",
@@ -702,9 +713,7 @@
 		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/routes/web.php",
 		"/D/_server/apache/sites/kazuha.local/zelatus/admin/Http/Middleware/Authenticate.php",
 		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/app/Http/Controllers/ImportsController.php",
-		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/resources/views/tools/imports/uploads.vis.php",
-		"/D/_server/apache/sites/kazuha.local/zelatus/admin/Http/Controllers/LogonController.php",
-		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/app/Services/FileImportService.php"
+		"/D/_server/apache/sites/kazuha.local/sistemas/sushang/resources/views/tools/imports/uploads.vis.php"
 	],
 	"find":
 	{
@@ -753,7 +762,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -776,6 +785,35 @@
 						"settings":
 						{
 							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ValueFactory.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

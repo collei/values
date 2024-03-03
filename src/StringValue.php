@@ -1,5 +1,5 @@
 <?php
-namespace Collei\Types;
+namespace Collei\Values;
 
 /**
  * Type abstraction layer for loading from/saving to files
